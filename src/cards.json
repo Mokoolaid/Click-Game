@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "image": "IMG_9283.jpeg",
+    "photo": "Dianna a"
+  },
+
+  {
+    "id": 2,
+    "image": "leaves in grass.jpeg",
+    "photo": "Dianna b"
+  },
+
+  {
+    "id": 3,
+    "image": "leaves on ground.jpeg",
+    "photo": "Dianna c"
+  },
+
+  {
+    "id": 4,
+    "image": "parking lot leaves.jpeg",
+    "photo": "Dianna d"
+  },
+
+  {
+    "id": 5,
+    "image": "red parking lot leaves.jpeg",
+    "photo": "Dianna e"
+  },
+
+  {
+    "id": 6,
+    "image": "redder parking lot leaves.jpeg",
+    "photo": "Dianna f"
+  },
+
+  {
+    "id": 7,
+    "image": "IMG_9594.jpeg",
+    "photo": "Dianna g"
+  },
+
+  {
+    "id": 8,
+    "image": "IMG_9595.jpeg",
+    "photo": "Dianna h"
+  }
+]
